@@ -6,7 +6,6 @@ import os
 import cv2
 import argparse
 import pickle
-import argparse
 from argparse import RawDescriptionHelpFormatter
 import fnmatch
 import json
